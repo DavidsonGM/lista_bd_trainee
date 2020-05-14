@@ -1,0 +1,1 @@
+UPDATE Actors SET actor_name = 'Uma Thurman' WHERE actor_name = 'Uma Turman';
